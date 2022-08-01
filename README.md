@@ -1,6 +1,6 @@
 # Todo List App
 
-A simple To-do app
+A simple To-do app. This app has no database does all the data will be wiped out when app is close. It is created for practice purposes.
 
 ## Screenshots
 
